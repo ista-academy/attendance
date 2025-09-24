@@ -13,6 +13,7 @@ A collaborative directory of ista-academy session and class attendees. Use the t
 | Name and Family Name | LinkedIn / GitHub |
 | --- | --- |
 | Ista Academy | [LinkedIn](https://www.linkedin.com/school/istaacademy) · [GitHub](https://github.com/ista-academy) |
+| Mohammad Kashani | [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) |
 
 ## Quick add template
 
