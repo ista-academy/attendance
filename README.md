@@ -21,9 +21,5 @@ Copy this row and replace the placeholders:
 
 `| Your Full Name | [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) |`
 
-## :heart:
-<div dir="ltr">
-<a href="graphs/contributors"><img src="https://contrib.rocks/image?repo=ista-academy/attendance" /></a>
-</div>
 
 Thanks for contributing!
