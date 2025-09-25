@@ -14,6 +14,7 @@ A collaborative directory of ista-academy session and class attendees. Use the t
 | --- | --- |
 | Ista Academy | [LinkedIn](https://www.linkedin.com/school/istaacademy) · [GitHub](https://github.com/ista-academy) |
 | Mohammad Kashani | [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) |
+| Amirhossein Ziaee [LinkedIn](https://www.linkedin.com/in/amirziaee) · [GitHub](https://github.com/afourteene) |
 
 ## Quick add template
 
