@@ -16,6 +16,7 @@ A collaborative directory of ista-academy session and class attendees. Use the t
 | Mohammad Kashani | [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) |
 | Amirhossein Ziaee |  [LinkedIn](https://www.linkedin.com/in/amirziaee) · [GitHub](https://github.com/afourteene) |
 | Behrad Saraiyeh |  [LinkedIn](https://www.linkedin.com/in/behrad-saraiyeh/) · [GitHub](https://github.com/Behradsa) |
+| Shahriyar Bayat | [LinkedIn](https://www.linkedin.com/in/shahriyarbayat) · [GitHub](https://github.com/shahriyar3) |
 | Navid Farahmand | [LinkedIn](https://www.linkedin.com/in/navidfarahmand) · [GitHub](https://github.com/NavFar) |
 ## Quick add template
 
