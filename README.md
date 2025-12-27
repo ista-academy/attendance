@@ -19,7 +19,7 @@ A collaborative directory of ista-academy session and class attendees. Use the t
 | Shahriyar Bayat | [LinkedIn](https://www.linkedin.com/in/shahriyarbayat) · [GitHub](https://github.com/shahriyar3) |
 | Navid Farahmand | [LinkedIn](https://www.linkedin.com/in/navidfarahmand) · [GitHub](https://github.com/NavFar) |
 | Mahdi Nazari | [LinkedIn](https://www.linkedin.com/in/mahdinazarii) · [GitHub](https://github.com/Mahdi-Nazari) |
-
+| Erfan Mirzaie | [LinkedIn](https://www.linkedin.com/in/erfunmirzaie) · [GitHub](https://github.com/erfunmirzaie) |
 ## Quick add template
 
 Copy this row and replace the placeholders:
