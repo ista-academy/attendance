@@ -25,7 +25,7 @@ table below to add your full name and a link to your professional profile
 | Navid Farahmand      | [LinkedIn](https://www.linkedin.com/in/navidfarahmand) · [GitHub](https://github.com/NavFar)        |
 | Mahdi Nazari         | [LinkedIn](https://www.linkedin.com/in/mahdinazarii) · [GitHub](https://github.com/Mahdi-Nazari)    |
 | Mahdi Shojaei        | [LinkedIn](https://www.linkedin.com/in/nima-shojaei/) · [GitHub](https://github.com/mhdshojaei)     |
-| Erfan Mirzaie | [LinkedIn](https://www.linkedin.com/in/erfunmirzaie) · [GitHub](https://github.com/erfunmirzaie) |
+| Erfan Mirzaie        | [LinkedIn](https://www.linkedin.com/in/erfunmirzaie) · [GitHub](https://github.com/erfunmirzaie)    |
 
 ## Quick add template
 
